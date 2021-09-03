@@ -29,3 +29,6 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en Markdawn](http://www.google.com)
 - [Esto es un link en index](index.html)
+
+# Imagenes
+![Logo GitHub](https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png)
