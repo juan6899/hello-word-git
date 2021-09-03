@@ -3,6 +3,7 @@
 ### Cabecera H3
 #### Cabecera H4
 
+# Underlines
 Underline 1
 -----------
 
@@ -15,3 +16,11 @@ Underline 2
 - formato __bold o strong__ de la primera forma.
 - formato ~~tachado~~ formato normal.
 - aqui podemos usar *formato italico*, pero tambien **bold** y ~~tachado~~.
+
+# Listas
+1. Es es un item de lista ordenada.
+2. Es es un item de lista ordenada.
+3. Es es un item de lista ordenada.
+- Esto es un item de lista desordenada.
+- Esto es un item de lista desordenada
+- Esto es un item de lista desordenada
