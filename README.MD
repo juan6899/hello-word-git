@@ -1,3 +1,6 @@
+# Version del curso
+Version Actual: v1.2.2
+
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -101,5 +104,6 @@ ___
 Esto es nuestro primer parrafo.
 
 Esto es nuestro segundo parrafo.
+
 Esto es nuestro tercer parrafo.
 - Lista 
