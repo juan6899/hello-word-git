@@ -32,3 +32,50 @@ Underline 2
 
 # Imagenes
 ![Logo GitHub](https://logos-marcas.com/wp-content/uploads/2020/11/GitHub-Logo.png)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+codigo en Javascript
+```Javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| -------| ---------| ----------|
+| Maxi   |   Burgos | 32728     |
+| Tomas  | Tompson  | 32819     |
